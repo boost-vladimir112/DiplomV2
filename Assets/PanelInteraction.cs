@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class InfoPanelInteraction : MonoBehaviour
+public class PanelInteraction : MonoBehaviour
 {
     [SerializeField] private GameObject _infoPanel;
   
