@@ -18,7 +18,7 @@ public class CameraFly : MonoBehaviour {
 
 
 	void Start() {
-        Cursor.lockState = CursorLockMode.Locked;
+        //Cursor.lockState = CursorLockMode.Locked;
         originalRotation = transform.rotation;
 	}
 
